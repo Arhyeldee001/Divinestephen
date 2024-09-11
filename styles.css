@@ -74,7 +74,7 @@ nav ul li a {
 
 /* Profile Picture Styling */
 .profile-picture {
-    margin-top: 5450px; /* Reduced the margin */
+    margin-top: 5600px; /* Reduced the margin */
     border: 0px solid blue;
     border-radius: 50%;
     width: 320px;  /* Increased the size of the circular frame */
